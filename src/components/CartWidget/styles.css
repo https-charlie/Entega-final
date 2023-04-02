@@ -1,0 +1,20 @@
+
+.cart-eco{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+  .icon-cart{
+    fill: #000;
+    font-size: 23px;
+  }
+
+  span.cart-noti {
+    color: #fff;
+      background: #000;
+      font-weight: 700;
+      border-radius: 100px;
+      padding: 4px 10px;
+      margin-left: 10px;
+      font-size: 12px;
+  }
